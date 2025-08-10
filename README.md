@@ -6,7 +6,7 @@ A simple Java project demonstrating the implementation of multi-threaded client-
 
 This repository contains basic client-server model to illustrate core networking concepts:
 
-**Multi-Threaded**: A more robust server that spawns a new thread for each incoming client connection. This allows it to handle multiple clients concurrently, which is essential for real-world applications. The accompanying client can simulate multiple concurrent connections to test the server's capabilities.
+**Multi-Threaded**: A robust server that spawns a new thread for each incoming client connection. This allows it to handle multiple clients concurrently, which is essential for real-world applications. The accompanying client can simulate multiple concurrent connections to test the server's capabilities.
 
 ## Features
 
