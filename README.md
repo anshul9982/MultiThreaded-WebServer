@@ -1,6 +1,6 @@
 # Java Multi-Threaded Socket Server
 
-A simple Java project demonstrating the implementation and comparison of a single-threaded and a multi-threaded client-server application using TCP sockets.
+A simple Java project demonstrating the implementation of multi-threaded client-server application using TCP sockets.
 
 ## Overview
 
